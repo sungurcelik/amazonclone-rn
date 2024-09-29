@@ -4,7 +4,7 @@ import Router from "./src/navigation/Router";
 
 const App = () => {
   return (
-    <SafeAreaView style={{ flex: 1, backgroundColor: "#9ee4d4" }}>
+    <SafeAreaView style={{ flex: 1 }}>
       <StatusBar barStyle={"dark-content"} />
       <Router />
     </SafeAreaView>
