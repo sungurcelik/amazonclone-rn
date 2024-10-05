@@ -1,5 +1,4 @@
 import { SafeAreaView, StatusBar, StyleSheet } from "react-native";
-import React from "react";
 import Router from "./src/navigation/Router";
 
 const App = () => {
